@@ -1,5 +1,5 @@
 # MIPS-practice
-January 2019, CS250 HW#2 (Computer Architecture)
+January 2019, CS250 (Computer Architecture) HW#2
 
 HoopsStats:
 Reads in lines of input as strings, where each line is read in as its own input (using spim’s syscall support for reading in inputs of different formats). The file is a series of player stats, where each player entry is 4 input lines long. The first line is the player’s last name, the second line is his jersey number (an int), the third line is his average points per game (a float), and the fourth line is his year of graduation (an int). The last line you read is the string “DONE”.
